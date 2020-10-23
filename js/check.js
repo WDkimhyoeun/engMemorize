@@ -2,7 +2,7 @@
 function loadItems() {
     return fetch('../data/data.json')
     .then(response => response.json())
-    .then(json => console.log(json));
+    .then(json => json.items);
 }
 
 // main
@@ -10,7 +10,8 @@ function loadItems() {
 // EventListeners를 등록해서 적절한 item을 filterling해주는 것까지!
 loadItems()
 .then(items => {
-    // displayItems(items);
+    console.log(items);
+    //displayItems(items);
     // setEventListeners(items)
 })
 .catch(console.log);
