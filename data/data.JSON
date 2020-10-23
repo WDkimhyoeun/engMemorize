@@ -1,0 +1,54 @@
+{
+    "list": [
+        {
+            "num": "1",
+            "eng": "appreciation",
+            "kor": "감사, 감상"
+        },
+        {
+            "num": "2",
+            "eng": "unemployment",
+            "kor": "실업"
+        },        
+        {
+            "num": "3",
+            "eng": "concern",
+            "kor": "우려, 걱정; 문제, 일"
+        },
+        {
+            "num": "4",
+            "eng": "effective",
+            "kor": "효과적인"
+        },
+        {
+            "num": "5",
+            "eng": "notable",
+            "kor": "뛰어난, 중요한"
+        },
+        {
+            "num": "6",
+            "eng": "exceptional",
+            "kor": "우수한, 매우 뛰어난"
+        },
+        {
+            "num": "7",
+            "eng": "leniently",
+            "kor": "관대하게"
+        },
+        {
+            "num": "8",
+            "eng": "exceptional",
+            "kor": "예외적인, 매우 뛰어난"
+        },
+        {
+            "num": "9",
+            "eng": "management",
+            "kor": "경영, 경영진"
+        },
+        {
+            "num": "10",
+            "eng": "applicant",
+            "kor": "지원자, 신청자"
+        }
+    ]
+}
